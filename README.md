@@ -8,7 +8,8 @@ A great team player contributed to a large team of over 40+ members.
 - Mentor junior team members & help with knowledge transition.
 
  ### Technical Skills: 
- Python, SQL, Java, Springboot Framework, Azure
+| Python | SQL | Java | Springboot Framework | Azure | 
+
 
 ### EDUCATION
 - Bachelors of Technology | B.P.Poddar Institute of Management and Technology (_2017-2021_)								       		
