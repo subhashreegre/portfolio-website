@@ -7,7 +7,7 @@ A great team player contributed to a large team of over 40+ members.
 - Data ingestion, integration and transformation
 - Mentor junior team members & help with knowledge transition.
 
-### Technical Skills:  ****| Python | SQL | Java | Springboot Framework | Azure |****
+### Technical Skills:  Python, SQL, Java, Springboot Framework, Azure
 
 
 ### EDUCATION
